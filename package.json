@@ -13,6 +13,10 @@
     "@astrojs/mdx": "^3.1.7",
     "@astrojs/rss": "^4.0.7",
     "@astrojs/sitemap": "^3.2.0",
-    "astro": "^4.15.11"
+    "astro": "^4.15.11",
+    "tinacms": "^2.2.8"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.6.8"
   }
 }
